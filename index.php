@@ -1,5 +1,5 @@
 <?php
 	echo 'cc';
-	echo 'aa';
+	echo 'aaXXX';
 	echo 'bb';
 ?>
