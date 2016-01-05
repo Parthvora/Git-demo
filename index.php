@@ -1,6 +1,6 @@
 <?php
 
-echo 'new from remote;
+echo 'new from remote SERVER;
 
 ?>
 
